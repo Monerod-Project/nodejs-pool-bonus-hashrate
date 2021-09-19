@@ -1,0 +1,13 @@
+{
+	"API_DOMAIN": "YOUR POOLs API DOMAIN",
+	"DB": {
+		"connection" : {
+		    "connectionLimit" : "10",
+		    "host" : "example.org",
+		    "user" : "bob",
+		    "password" : "secret",
+		    "database" : "my_db"
+		}
+	},
+	"XMRIG_CONFIG": "/path/to/file.json"
+}
